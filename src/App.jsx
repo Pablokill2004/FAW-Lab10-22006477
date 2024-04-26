@@ -27,7 +27,7 @@ function App() {
       <form>
         <div className="border-left">
           <label htmlFor="exampleInputPassword1">
-            <h1>Mini Task Dashboard</h1>
+            <h1>Mini Task</h1>
           </label>
         </div>
         <div>
